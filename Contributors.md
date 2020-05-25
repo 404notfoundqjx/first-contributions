@@ -117,6 +117,7 @@
 - [Elena Tartaglia](https://github.com/eigensong)
 - [Rishabh Nanawati](https://github.com/nrishabh/)
 - [Chris Constantino](https://github.com/caconstan)
+qjx
 - [Sam Venables](https://github.com/vensaherald)
 - [Debasish Chakroborti](https://github.com/joydeba)
 - [Chifundo Kasiya](https://github.com/fundo89)
